@@ -1,0 +1,6 @@
+C:\vs\snmpmonitor\snmpmonitor.DATA\bin\Debug\snmpmonitor.DATA.dll
+C:\vs\snmpmonitor\snmpmonitor.DATA\bin\Debug\snmpmonitor.DATA.pdb
+C:\vs\snmpmonitor\snmpmonitor.DATA\obj\Debug\snmpmonitor.DATA.csprojAssemblyReference.cache
+C:\vs\snmpmonitor\snmpmonitor.DATA\obj\Debug\snmpmonitor.DATA.csproj.CoreCompileInputs.cache
+C:\vs\snmpmonitor\snmpmonitor.DATA\obj\Debug\snmpmonitor.DATA.dll
+C:\vs\snmpmonitor\snmpmonitor.DATA\obj\Debug\snmpmonitor.DATA.pdb

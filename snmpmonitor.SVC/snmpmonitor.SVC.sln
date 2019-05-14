@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snmpmonitor.SVC", "snmpmonitor.SVC\snmpmonitor.SVC.csproj", "{1DAC9583-E473-4390-B724-895CCBE4C96C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snmpmonitor.DATA", "..\snmpmonitor.DATA\snmpmonitor.DATA.csproj", "{806D9437-E4A6-4BAD-BE9A-540502919040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DAC9583-E473-4390-B724-895CCBE4C96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAC9583-E473-4390-B724-895CCBE4C96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAC9583-E473-4390-B724-895CCBE4C96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAC9583-E473-4390-B724-895CCBE4C96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806D9437-E4A6-4BAD-BE9A-540502919040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806D9437-E4A6-4BAD-BE9A-540502919040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806D9437-E4A6-4BAD-BE9A-540502919040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806D9437-E4A6-4BAD-BE9A-540502919040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C6C8886-97C4-4655-9432-8BB0F0728988}
+	EndGlobalSection
+EndGlobal
